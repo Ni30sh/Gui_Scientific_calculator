@@ -27,7 +27,8 @@ This is a simple calculator application built using the `tkinter` library in Pyt
 6. Use the other buttons to perform additional operations as needed.
 
 ## Screenshots
-![image](https://github.com/Ni30shkumar/Gui_Scientific_calculator/assets/132122071/24397f19-4532-4eba-8652-4dfc967dd7df)
+![image](https://github.com/Ni30shkumar/Gui_Scientific_calculator/assets/132122071/3d320eca-c0ea-4907-9026-ffeb60caf337)
+
 
 ## Contributing
 
