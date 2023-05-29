@@ -1,3 +1,4 @@
+from tkinter import *
 import tkinter as tk
 import math
 
@@ -10,7 +11,7 @@ win.geometry("360x415")
 win.configure(bg="#292F33")
 
 equation = tk.StringVar()
-expression_field = tk.Entry(win, relief="sunken", textvariable=equation, font=("Time in romana", 30), bg="white")
+expression_field = tk.Entry(win, relief=GROOVE, borderwidth=7, textvariable=equation, font=("Time in romana", 30), bg="white")
 expression_field.place(x=1, y=50, height=50, width=360)
 label_title = tk.Label(win, text="Calculator", font=("Times New Roman", 30, "bold"), bg="#ffbf00")
 label_title.place(x=1, y=0, height=48, width=360)
