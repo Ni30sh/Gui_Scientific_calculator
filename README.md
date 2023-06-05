@@ -1,3 +1,4 @@
+[![](https://visitcount.itsvg.in/api?id=Gui_Scientific_calculater&icon=0&color=5)](https://visitcount.itsvg.in)
 # Calculator
 
 This is a simple calculator application built using the `tkinter` library in Python. It provides basic arithmetic operations and some mathematical functions like trigonometric functions, logarithm, and square root.
