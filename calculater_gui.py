@@ -28,7 +28,6 @@ def equal():
     except:
         equation.set("Error")
 
-
 def clean():
     equation.set("")
 
